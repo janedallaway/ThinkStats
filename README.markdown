@@ -4,5 +4,9 @@ Exercises to accompany the book [Think Stats](http://greenteapress.com/thinkstat
 
 Note: my first attempt at python, so nothing fancy here!
 
+Exercises are divided into folders per Chapter
+
+All needed inclusions are also included
+
 
 
